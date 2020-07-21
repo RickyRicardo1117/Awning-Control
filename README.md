@@ -10,4 +10,3 @@ Awning Control is a project management program built for awning companies.
   - Project Status update from employees
 - Customer Management
   - Insert Customer information and link to projects and employees
-  - Test
