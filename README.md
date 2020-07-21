@@ -7,6 +7,7 @@ Awning Control is a project management program built for awning companies.
   - Time Tracking on projects
 - Project Tracking
   - Insert detailed info. about awnings/canopies/trellis etc.
-  - Project Status from employees
+  - Project Status update from employees
 - Customer Management
   - Insert Customer information and link to projects and employees
+  - Test
